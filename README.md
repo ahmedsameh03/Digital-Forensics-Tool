@@ -1,3 +1,4 @@
 # Digital-Forensics-Tool
 
-https://www.tinkercad.com/things/a0Tx3Zz75HN-speed-and-direction-control-of-dc-motor
+![image](https://github.com/user-attachments/assets/b4f0285d-593f-4667-9283-43c4e4e0ddff)
+
